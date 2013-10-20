@@ -14,7 +14,7 @@ Requirements:
 --------------------------------------------------------
 
 Developed by Abelardo Gil-Fournier - October 2013
-  http://abelardogfournier.org/modifier
+  http://abelardogfournier.org
 for the workshop Stone, Pixel, Plastic, Stone
   in Arteleku, October 20-21, 2013, http://arteleku.net
 The default model comes from a 3d scan of a stone
