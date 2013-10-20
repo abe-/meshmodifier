@@ -10,6 +10,7 @@ Requirements:
 - controlP5 updated:: http://www.sojamo.de/libraries/controlP5/
 - sDrop: http://www.sojamo.de/libraries/drop/
 
+![alt tag](http://abelardogfournier.org/cms/files/projects/stone-pixel-plastic-stone/modifier.jpg)
 
 --------------------------------------------------------
 
